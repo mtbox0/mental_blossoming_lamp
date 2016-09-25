@@ -24,6 +24,7 @@ http://www.thingiverse.com/thing:618490
 And finaly I modded the bulb to make it nicer and allow its printing on my 3d printer.
 
 Hardware was :
+
 Initiated by Puzzlebox and,
 Modded by macro-toolbox to add the following ameliorations :
 
@@ -32,5 +33,6 @@ contrary to puzzlebox version, you don't need a ble bluetooth board and a ble bl
 added a power board to drive the servo and to support the bluetooth module.
 
 Software was :
+
 Based on Neurosky Arduino example found at neurosky.com for the mindwave protocol and,
 Fully written by macro-toolbox to control the lamp features (light and motorization), at the exception of a bit of puzzlebox code for the rgb loop crossfade.
